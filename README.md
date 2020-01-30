@@ -1,5 +1,6 @@
-# https://www.joomla.org/ #
-#### https://extensions.joomla.org/
+# Joomla, Joomla Bootstrap Theme and Modules #
+- https://www.joomla.org/
+- https://extensions.joomla.org/
 
 ### Joomla Clean
 - https://github.com/b1glord/Joomla/raw/master/Joomla_3.9.15-Stable-Full_Package.zip

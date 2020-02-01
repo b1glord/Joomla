@@ -39,5 +39,5 @@ https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
 https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
 
 #### Basit Database Entegresi (JooDatabase)
-- Ref : https://joodb.feenders.de/
-https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip
+! Ref : https://joodb.feenders.de/
+! https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip

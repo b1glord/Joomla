@@ -18,11 +18,12 @@
 
 ## Joomla Bootstrap 4 Theme Modules
 
-- Joomla Bootstrap 4 Navbar
-https://github.com/b1glord/Joomla/raw/master/mod_wt_navbar-v2.0.0.zip
+### Joomla Bootstrap 4 Navbar
+- https://github.com/b1glord/Joomla/raw/master/mod_wt_navbar-v2.0.0.zip
 
-- Joomla Bootstrap 4 Theme Slider
-https://github.com/b1glord/Joomla/raw/master/mod_lazyslider.zip
+### Joomla Bootstrap 4 Theme Slider
+- https://github.com/b1glord/Joomla/raw/master/smartslider3-joomla-3.3.26.zip
+- https://github.com/b1glord/Joomla/old/raw/master/mod_lazyslider.zip (wt navbar ile calısmıyor ama cok guzel bı slider)
 
-- Animasyonlu Sayfa Yukleniyor Module
-https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
+#### Animasyonlu Sayfa Yukleniyor Module
+- https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip

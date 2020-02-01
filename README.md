@@ -22,6 +22,7 @@
 <p> Ref : https://extensions.joomla.org/extension/maxi-menu-ck/ </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_maximenuck_8.2.19_j3.zip
 
+
 <p> Ref : https://demo.wondertheme.com/extensions/wt-navbar </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_wt_navbar-v2.0.0.zip
 

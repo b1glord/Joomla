@@ -15,11 +15,11 @@
 - Image Module (Bu Modulu Yayından Kaldır)
 
 #### 2 Joomla Bootstrap yada Responsive Header
-- Ref : http://www.nobosstechnology.com
+<p> Ref : http://www.nobosstechnology.com </p>
 - https://github.com/b1glord/Joomla/raw/master/2-header/nobossheader.zip
 
 #### 3 Joomla Bootstrap 4 Navbar
-- Ref : https://extensions.joomla.org/extension/maxi-menu-ck/
+<p> Ref : https://extensions.joomla.org/extension/maxi-menu-ck/ </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_maximenuck_8.2.19_j3.zip
 
 - Ref : https://demo.wondertheme.com/extensions/wt-navbar

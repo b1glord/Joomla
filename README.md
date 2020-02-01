@@ -22,24 +22,24 @@
 <p> Ref : https://extensions.joomla.org/extension/maxi-menu-ck/ </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_maximenuck_8.2.19_j3.zip
 
-- Ref : https://demo.wondertheme.com/extensions/wt-navbar
+<p> Ref : https://demo.wondertheme.com/extensions/wt-navbar </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_wt_navbar-v2.0.0.zip
 
 #### 4 Joomla Bootstrap 4 Theme Slider
-- Ref : https://extensions.joomla.org/extension/smart-slider-2/
+<p> Ref : https://extensions.joomla.org/extension/smart-slider-2/ </p>
  https://github.com/b1glord/Joomla/raw/master/slider/smartslider3-joomla-3.3.26.zip
  
-- Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider)
+<p> Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider) </p>
  https://github.com/b1glord/Joomla/raw/master/slider/mod_lazyslider.zip 
 
 #### Animasyonlu Sayfa Yukleniyor Module
-- Ref : https://extensions.joomla.org/extension/page-load-progress/
+<p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
  https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
 
 #### Cookie Control Module (Kick GDPR)
-- Ref : https://kicktemp.shop/plugins/11/kickgdpr-gdpr/dsgvo-cookie-system-plugin-fuer-joomla
+<p> Ref : https://kicktemp.shop/plugins/11/kickgdpr-gdpr/dsgvo-cookie-system-plugin-fuer-joomla </p>
  https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
 
 #### Basit Database Entegresi (JooDatabase)
-- Ref : https://joodb.feenders.de/ </p>
+<p> Ref : https://joodb.feenders.de/ </p>
  https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip

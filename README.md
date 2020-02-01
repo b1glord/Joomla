@@ -27,3 +27,7 @@
 
 #### Animasyonlu Sayfa Yukleniyor Module
 - https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
+
+#### Cookie Control Module (Kick GDPR)
+- https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
+

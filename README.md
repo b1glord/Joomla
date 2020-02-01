@@ -33,6 +33,12 @@
 <p> Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider) </p>
  https://github.com/b1glord/Joomla/raw/master/slider/mod_lazyslider.zip 
 
+
+#### 5 News Display and Frontpage
+<p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
+ https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
+
+
 #### Animasyonlu Sayfa Yukleniyor Module
 <p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
  https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip

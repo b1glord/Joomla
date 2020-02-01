@@ -8,17 +8,19 @@
 
 ### Bootstrap Theme
 
-### Joomla Bootstrap 4 Theme
+1 Joomla Bootstrap 4 Theme
 - https://github.com/b1glord/Joomla/raw/master/bootstrap4.zip
 
 ### Joomla Bootstrap 4 Theme Düzenleme
 - Eklentiler -> Moduller Sekmesine Tıklıyoruz
 - Image Module (Bu Modulu Yayından Kaldır)
 
+2 Joomla Bootstrap yada Responsive Header
+- Ref : https://demo.wondertheme.com/extensions/wt-navbar
+https://github.com/b1glord/Joomla/raw/master/navbar/mod_maximenuck_8.2.19_j3.zip
 
-## Joomla Bootstrap 4 Theme Modules
 
-### Joomla Bootstrap 4 Navbar
+3 Joomla Bootstrap 4 Navbar
 - Ref : https://demo.wondertheme.com/extensions/wt-navbar
 https://github.com/b1glord/Joomla/raw/master/navbar/mod_maximenuck_8.2.19_j3.zip
 

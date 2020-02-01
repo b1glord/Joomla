@@ -35,7 +35,7 @@
 
 
 #### 5 News Display and Frontpage
-<p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
+<p> Ref : https://extensions.joomla.org/category/news-display/ </p>
  https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
 
 

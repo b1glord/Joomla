@@ -2,7 +2,7 @@
 - https://www.joomla.org/
 - https://extensions.joomla.org/
 
-### Joomla Temiz
+### Joomla Temiz Kurulum
 - https://github.com/b1glord/Joomla/raw/master/Joomla_3.9.15-Stable-Full_Package.zip
 
 

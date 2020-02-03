@@ -2,15 +2,15 @@
 - https://www.joomla.org/
 - https://extensions.joomla.org/
 
-### Joomla Clean
+### Joomla Temiz
 - https://github.com/b1glord/Joomla/raw/master/Joomla_3.9.15-Stable-Full_Package.zip
 
 
-## Bootstrap Theme
-#### 1 Joomla Bootstrap 4 Theme
+## Bootstrap Tema
+#### 1 Joomla Bootstrap 4 Tema
 - https://github.com/b1glord/Joomla/raw/master/1-theme/bootstrap4.zip
 
-#### Joomla Bootstrap 4 Theme Düzenleme
+#### Joomla Bootstrap 4 Tema Düzenleme
 - Eklentiler -> Moduller Sekmesine Tıklıyoruz
 - Image Module (Bu Modulu Yayından Kaldır)
 
@@ -43,7 +43,7 @@
 <p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
  https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
 
-#### Cookie Control Module (Kick GDPR)
+#### Cookie Control Module (Kick GDPR)(cookie ler icin alttan cıkan yazı)
 <p> Ref : https://kicktemp.shop/plugins/11/kickgdpr-gdpr/dsgvo-cookie-system-plugin-fuer-joomla </p>
  https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
 

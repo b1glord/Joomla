@@ -41,7 +41,8 @@
 
 #### 5 News Display and Frontpage
 <p> Ref : https://extensions.joomla.org/category/news-display/ </p>
- https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
+<p> Ref : https://sergiois.github.io/articles-thumbnails.html </p>
+https://github.com/b1glord/mod_articles_thumbnails.git
 
 
 #### Animasyonlu Sayfa Yukleniyor Module

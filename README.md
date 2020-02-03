@@ -28,10 +28,10 @@
 
 #### 4 Joomla Bootstrap 4 Theme Slider
 <p> Ref : https://extensions.joomla.org/extension/smart-slider-2/ </p>
- https://github.com/b1glord/Joomla/raw/master/slider/smartslider3-joomla-3.3.26.zip
+ https://github.com/b1glord/Joomla/raw/master/4-slider/smartslider3-joomla-3.3.26.zip
  
 <p> Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider) </p>
- https://github.com/b1glord/Joomla/raw/master/slider/mod_lazyslider.zip 
+ https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider.zip 
 
 
 #### 5 News Display and Frontpage

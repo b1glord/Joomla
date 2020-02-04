@@ -56,3 +56,7 @@ https://github.com/b1glord/mod_articles_thumbnails.git
 #### Basit Database Entegresi (JooDatabase)
 <p> Ref : https://joodb.feenders.de/ </p>
  https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip
+ 
+#### Rss Feed Entegresi (rss.xml ekleme)
+<p> Ref : https://joodb.feenders.de/ </p>
+https://github.com/b1glord/Joomla/raw/master/mod_gs_rssfeed_1.1.zip

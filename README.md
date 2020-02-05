@@ -41,7 +41,7 @@
  
  ##### 4 Joomla Bootstrap 4 Theme Slider 2
 <p> Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider) </p>
- https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider.zip 
+ https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider_1-0.zip 
 
 
 #### 5 News Display and Frontpage

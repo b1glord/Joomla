@@ -6,13 +6,17 @@
 - https://github.com/b1glord/Joomla/raw/master/Joomla_3.9.15-Stable-Full_Package.zip
 
 
+## Responsive Tema
+#### 1 Joomla Responsive Tema
+- https://github.com/b1glord/Helix3/archive/master.zip
+
+
 ## Bootstrap Tema
 #### 1 Joomla Bootstrap 4 Tema
 - https://github.com/b1glord/Joomla/raw/master/1-theme/bootstrap4.zip
 
 #### Bedava Bootstrap Tema Siteleri
 - https://ltheme.com/
-
 
 
 #### Joomla Bootstrap 4 Tema Düzenleme

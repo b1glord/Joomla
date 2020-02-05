@@ -35,10 +35,11 @@
 <p> Ref : https://demo.wondertheme.com/extensions/wt-navbar </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_wt_navbar-v2.0.0.zip
 
-#### 4 Joomla Bootstrap 4 Theme Slider
+##### 4 Joomla Bootstrap 4 Theme Slider
 <p> Ref : https://extensions.joomla.org/extension/smart-slider-2/ </p>
  https://github.com/b1glord/Joomla/raw/master/4-slider/smartslider3-joomla-3.3.26.zip
  
+ ##### 4 Joomla Bootstrap 4 Theme Slider 2
 <p> Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider) </p>
  https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider.zip 
 

@@ -22,7 +22,7 @@
 - Image Module (Bu Modulu Yayından Kaldır)
 
 #### 2 Joomla Bootstrap yada Responsive Header
-<p> Ref : http://www.nobosstechnology.com </p>
+<p> Ref : https://www.nobossextensions.com </p>
 - https://github.com/b1glord/Joomla/raw/master/2-header/nobossheader.zip
 
 #### 3 Joomla Bootstrap 4 Navbar

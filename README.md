@@ -13,10 +13,8 @@
 
 ## Bootstrap Tema
 #### 1 Joomla Bootstrap 4 Tema
-- https://github.com/b1glord/Joomla/raw/master/1-theme/bootstrap4.zip
+- https://github.com/b1glord/joomla-bootstrap4-template/archive/master.zip
 
-#### Bedava Bootstrap Tema Siteleri
-- https://ltheme.com/
 
 
 #### Joomla Bootstrap 4 Tema Düzenleme

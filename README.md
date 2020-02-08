@@ -11,7 +11,10 @@
 - http://gantry.org/downloads#joomla
 - https://github.com/gantry/gantry5/releases/download/5.4.32/grav-pkg_gantry5_v5.4.32.zip
 
-##### 2 Helix Framework (Bazi kisimlarini tam anlamadim)
+##### 2 astroid Framework
+- https://www.astroidframework.com/
+
+##### 3 Helix Framework (Bazi kisimlarini tam anlamadim)
 - https://github.com/JoomShaper
 - https://github.com/b1glord/Helix3
 - https://github.com/b1glord/Helix3/archive/master.zip

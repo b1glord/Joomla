@@ -21,25 +21,22 @@
 - Eklentiler -> Moduller Sekmesine Tıklıyoruz
 - Image Module (Bu Modulu Yayından Kaldır)
 
-#### 2 Joomla Bootstrap yada Responsive Header
-<p> Ref : https://www.nobossextensions.com </p>
-- https://github.com/b1glord/Joomla/raw/master/2-header/nobossheader.zip
 
 #### 3 Joomla Bootstrap 4 Navbar
 <p> Ref : https://extensions.joomla.org/extension/maxi-menu-ck/ </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_maximenuck_8.2.19_j3.zip
 
-
 <p> Ref : https://demo.wondertheme.com/extensions/wt-navbar </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_wt_navbar-v2.0.0.zip
 
+
 ##### 4 Joomla Bootstrap 4 Theme Slider
-<p> Ref : https://extensions.joomla.org/extension/smart-slider-2/ </p>
- https://github.com/b1glord/Joomla/raw/master/4-slider/smartslider3-joomla-3.3.26.zip
+<p> Ref : https://www.joomlack.fr/en/download-joomla-extensions/view_category/19-slideshow-ck </p>
+ - https://github.com/b1glord/Joomla/raw/master/4-slider/slideshowck-light_2.0.15.zip
  
  ##### 4 Joomla Bootstrap 4 Theme Slider 2
-<p> Ref : https://extensions.joomla.org/extension/lazy-slider/            (wt navbar ile calısmıyor ama cok guzel bı slider) </p>
- https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider_1-0.zip 
+<p> Ref : https://extensions.joomla.org/extension/lazy-slider/   </p>
+ - https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider_1-0.zip
 
 
 #### 5 News Display and Frontpage

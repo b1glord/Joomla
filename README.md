@@ -43,7 +43,7 @@
 - https://github.com/b1glord/mod_articles_thumbnails.git
 
 
-
+### 5 - Diger Eklentiler
 ### Animasyonlu Sayfa Yukleniyor Module
 <p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
 - https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip

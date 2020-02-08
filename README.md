@@ -8,7 +8,7 @@
 
 ### 1 - Framework
 ##### 1 gantry Framework
-- http://gantry.org/downloads
+- http://gantry.org/downloads#joomla
 - https://github.com/gantry/gantry5/releases/download/5.4.32/grav-pkg_gantry5_v5.4.32.zip
 
 ##### 2 Helix Framework (Bazi kisimlarini tam anlamadim)
@@ -18,49 +18,49 @@
 
 ### 2 - Navbar (position-1)
 ##### 1 Joomla Bootstrap 4 Navbar 
-<p> Ref : https://extensions.joomla.org/extension/maxi-menu-ck/ </p>
+- https://extensions.joomla.org/extension/maxi-menu-ck/ 
 - https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_maximenuck_8.2.19_j3.zip
 
 ##### 2 Joomla Bootstrap 4 Navbar
-<p> Ref : https://demo.wondertheme.com/extensions/wt-navbar </p>
+- https://demo.wondertheme.com/extensions/wt-navbar 
 - https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_wt_navbar-v2.0.0.zip
 
 
 ### 3 -  Slider (position-2)(position-3)
 ##### 1 Joomla Bootstrap 4 Theme Slider 
-<p> Ref : https://www.joomlack.fr/en/download-joomla-extensions/view_category/19-slideshow-ck </p>
+- https://www.joomlack.fr/en/download-joomla-extensions/view_category/19-slideshow-ck
 - https://github.com/b1glord/Joomla/raw/master/4-slider/slideshowck-light_2.0.15.zip
  
  ##### 2 Joomla Bootstrap 4 Theme Slider 2 
-<p> Ref : https://extensions.joomla.org/extension/lazy-slider/   </p>
+- https://extensions.joomla.org/extension/lazy-slider/ 
 - https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider_1-0.zip
 
 
 
 ### 4 - News Display and Frontpage (position-3)
-<p> Ref : https://extensions.joomla.org/category/news-display/ </p>
-<p> Ref : https://sergiois.github.io/articles-thumbnails.html </p>
+- https://extensions.joomla.org/category/news-display/
+- https://sergiois.github.io/articles-thumbnails.html
 - https://github.com/b1glord/mod_articles_thumbnails.git
 
 
 ### 5 - Diger Eklentiler
 ### Animasyonlu Sayfa Yukleniyor Module
-<p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
+- https://extensions.joomla.org/extension/page-load-progress/
 - https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
 
 ### Cookie Control Module (Kick GDPR)(cookie ler icin alttan cıkan yazı)
-<p> Ref : https://kicktemp.shop/plugins/11/kickgdpr-gdpr/dsgvo-cookie-system-plugin-fuer-joomla </p>
+- https://kicktemp.shop/plugins/11/kickgdpr-gdpr/dsgvo-cookie-system-plugin-fuer-joomla
 - https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
 
 ### Basit Database Entegresi (JooDatabase)
-<p> Ref : https://joodb.feenders.de/ </p>
+- https://joodb.feenders.de/
 - https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip
  
 ### Rss Feed Entegresi (rss.xml ekleme)
-<p> Ref : https://extensions.joomla.org/extension/gsrssfeed/ </p>
+- https://extensions.joomla.org/extension/gsrssfeed/
 - https://github.com/b1glord/Joomla/raw/master/mod_gs_rssfeed_1.1.zip
 
 ### Template Selector 
-<p> Ref : http://www.joomler.net/download/145-joomla3x/1007-template-selector-version-184-released.html </p>
+- http://www.joomler.net/download/145-joomla3x/1007-template-selector-version-184-released.html
 - https://github.com/b1glord/Joomla/raw/master/pkg-template-selector-1-8-4-for-j3-x.tar.gz
 

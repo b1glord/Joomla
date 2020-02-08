@@ -17,11 +17,6 @@
 
 
 
-#### Joomla Bootstrap 4 Tema Düzenleme
-- Eklentiler -> Moduller Sekmesine Tıklıyoruz
-- Image Module (Bu Modulu Yayından Kaldır)
-
-
 #### 2 Joomla Bootstrap 4 Navbar (position-1)
 <p> Ref : https://extensions.joomla.org/extension/maxi-menu-ck/ </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_maximenuck_8.2.19_j3.zip
@@ -29,6 +24,7 @@
 #### 3 Joomla Bootstrap 4 Navbar
 <p> Ref : https://demo.wondertheme.com/extensions/wt-navbar </p>
  https://github.com/b1glord/Joomla/raw/master/3-navbar/mod_wt_navbar-v2.0.0.zip
+
 
 
 ##### 4 Joomla Bootstrap 4 Theme Slider (position-2)
@@ -40,10 +36,12 @@
  - https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider_1-0.zip
 
 
+
 #### 5 News Display and Frontpage
 <p> Ref : https://extensions.joomla.org/category/news-display/ </p>
 <p> Ref : https://sergiois.github.io/articles-thumbnails.html </p>
 https://github.com/b1glord/mod_articles_thumbnails.git
+
 
 
 #### Animasyonlu Sayfa Yukleniyor Module

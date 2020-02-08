@@ -46,16 +46,21 @@ https://github.com/b1glord/mod_articles_thumbnails.git
 
 #### Animasyonlu Sayfa Yukleniyor Module
 <p> Ref : https://extensions.joomla.org/extension/page-load-progress/ </p>
- https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
+ - https://github.com/b1glord/Joomla/raw/master/Page_load_plugin.zip
 
 #### Cookie Control Module (Kick GDPR)(cookie ler icin alttan cıkan yazı)
 <p> Ref : https://kicktemp.shop/plugins/11/kickgdpr-gdpr/dsgvo-cookie-system-plugin-fuer-joomla </p>
- https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
+ - https://github.com/b1glord/Joomla/raw/master/plg_system_kickgdpr_3.3.0.zip
 
 #### Basit Database Entegresi (JooDatabase)
 <p> Ref : https://joodb.feenders.de/ </p>
- https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip
+ - https://github.com/b1glord/Joomla/raw/master/com_joodb-v3.9.7.zip
  
 #### Rss Feed Entegresi (rss.xml ekleme)
 <p> Ref : https://extensions.joomla.org/extension/gsrssfeed/ </p>
-https://github.com/b1glord/Joomla/raw/master/mod_gs_rssfeed_1.1.zip
+- https://github.com/b1glord/Joomla/raw/master/mod_gs_rssfeed_1.1.zip
+
+#### Template Selector 
+<p> Ref : http://www.joomler.net/download/145-joomla3x/1007-template-selector-version-184-released.html </p>
+- https://github.com/b1glord/Joomla/raw/master/pkg-template-selector-1-8-4-for-j3-x.tar.gz
+

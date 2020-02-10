@@ -68,3 +68,11 @@
 - http://www.joomler.net/download/145-joomla3x/1007-template-selector-version-184-released.html
 - https://github.com/b1glord/Joomla/raw/master/pkg-template-selector-1-8-4-for-j3-x.tar.gz
 
+### App Store Smart Layer
+- https://extensions.joomla.org/extension/mobile/mobile-apps/app-store-smart-layer/
+
+### CMSE Countdown
+https://extensions.joomla.org/extension/authoring-a-content/timed-content/cmse-countdown/
+
+
+

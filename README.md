@@ -42,6 +42,11 @@
 
 
 ### 4 - News Display and Frontpage (position-3)
+##### 1 Mini FrontPage
+- https://extensions.joomla.org/extension/mini-frontpage/
+- https://github.com/b1glord/Joomla/raw/master/mod_minifrontpage_unzip_first.zip
+
+##### 2 Mini FrontPage 2
 - https://extensions.joomla.org/category/news-display/
 - https://sergiois.github.io/articles-thumbnails.html
 - https://github.com/b1glord/mod_articles_thumbnails.git

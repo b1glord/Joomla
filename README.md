@@ -74,5 +74,8 @@
 ### CMSE Countdown
 https://extensions.joomla.org/extension/authoring-a-content/timed-content/cmse-countdown/
 
-
+### Awo Email Login
+https://awodev.com/products#awoelogin
+- https://extensions.joomla.org/extension/awo-email-login/
+- https://github.com/b1glord/Joomla/raw/master/plg_awoelogin-3.2.2.zip
 

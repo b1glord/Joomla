@@ -46,7 +46,7 @@
 - https://extensions.joomla.org/extension/mini-frontpage/
 - https://github.com/b1glord/Joomla/raw/master/mod_minifrontpage_unzip_first.zip
 
-##### 2 Mini FrontPage 2
+##### 2 Articles-thumbnails
 - https://extensions.joomla.org/category/news-display/
 - https://sergiois.github.io/articles-thumbnails.html
 - https://github.com/b1glord/mod_articles_thumbnails.git

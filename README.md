@@ -8,7 +8,7 @@
 
 ### 1 - Framework
 ##### 1 gantry Framework
-- https://github.com/b1glord/Joomla/tree/master/1-framework (Joomla 3.9.15)
+- https://github.com/b1glord/Joomla/tree/master/1-framework (Joomla 3.9.15 arsiv link)
 - http://gantry.org/downloads#joomla
 - https://github.com/gantry/gantry5/releases/download/5.4.32/grav-pkg_gantry5_v5.4.32.zip
 

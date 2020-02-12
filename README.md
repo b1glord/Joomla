@@ -85,3 +85,7 @@ https://awodev.com/products#awoelogin
 - https://extensions.joomla.org/extension/awo-email-login/
 - https://github.com/b1glord/Joomla/raw/master/plg_awoelogin-3.2.2.zip
 
+### https://extensions.joomla.org/extension/sclogin-enhanced-login/
+- https://www.sourcecoast.com/index.php?option=com_ars&view=release&Itemid=248
+- https://github.com/b1glord/Joomla/raw/master/mod_sclogin_v8.3.2.zip
+

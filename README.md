@@ -93,3 +93,12 @@ https://awodev.com/products#awoelogin
 ### JV-HelpDesk
 https://extensions.joomla.org/extension/clients-a-communities/help-desk/jv-helpdesk/
 
+
+### Durumsal Eklentiler
+https://extensions.joomla.org/extension/news-display/popular-content/most-popular-content-by-date-range/
+https://extensions.joomla.org/extension/news-display/ot-news-grid/
+https://extensions.joomla.org/extension/news-display/articles-display/isto-article-newsflash/
+https://extensions.joomla.org/extension/eb-whatsapp-chat/
+https://extensions.joomla.org/extension/news-display/content-infos/authors-pro/
+http://www.gopiplus.com/extensions/2011/09/fade-in-fade-out-rss-feed-joomla-module/
+https://extensions.joomla.org/extension/news-display/articles-display/responsive-stacked-article-slider/

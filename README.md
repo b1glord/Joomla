@@ -104,3 +104,8 @@ https://extensions.joomla.org/extension/news-display/articles-display/responsive
 https://extensions.joomla.org/extension/news-display/notes/ja-promo-bar/
 https://extensions.joomla.org/extension/news-display/tables-a-lists/edbbee/
 https://extensions.joomla.org/extension/news-display/articles-display/show-top-news/
+https://extensions.joomla.org/extension/news-display/articles-display/timeline-pretty-animations-period/
+https://extensions.joomla.org/extension/style-a-design/modules-panel/login-slider/
+https://extensions.joomla.org/extension/authoring-a-content/content-construction/rca-image-content/
+https://extensions.joomla.org/extension/style-a-design/page-background/blank-page/
+

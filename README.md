@@ -47,10 +47,8 @@
 - https://extensions.joomla.org/extension/mini-frontpage/
 - https://github.com/b1glord/Joomla/raw/master/mod_minifrontpage_unzip_first.zip
 
-##### 2 Articles-thumbnails
-- https://extensions.joomla.org/category/news-display/
-- https://sergiois.github.io/articles-thumbnails.html
-- https://github.com/b1glord/mod_articles_thumbnails.git
+##### 2 http://brainymore.com/purchase/content-extensions
+-http://brainymore.com/purchase/content-extensions/bm-articles-tab-ajax-slider-detail
 
 
 ### 5 - Diger Eklentiler
@@ -95,6 +93,7 @@ https://extensions.joomla.org/extension/clients-a-communities/help-desk/jv-helpd
 
 
 ### Durumsal Eklentiler
+https://extensions.joomla.org/profile/profile/details/227765/
 https://extensions.joomla.org/extension/news-display/popular-content/most-popular-content-by-date-range/
 https://extensions.joomla.org/extension/news-display/ot-news-grid/
 https://extensions.joomla.org/extension/news-display/articles-display/isto-article-newsflash/
@@ -102,3 +101,6 @@ https://extensions.joomla.org/extension/eb-whatsapp-chat/
 https://extensions.joomla.org/extension/news-display/content-infos/authors-pro/
 http://www.gopiplus.com/extensions/2011/09/fade-in-fade-out-rss-feed-joomla-module/
 https://extensions.joomla.org/extension/news-display/articles-display/responsive-stacked-article-slider/
+https://extensions.joomla.org/extension/news-display/notes/ja-promo-bar/
+https://extensions.joomla.org/extension/news-display/tables-a-lists/edbbee/
+https://extensions.joomla.org/extension/news-display/articles-display/show-top-news/

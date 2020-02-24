@@ -126,6 +126,9 @@ https://github.com/b1glord/Joomla/raw/master/mod_sclogin_v8.3.2.zip
 
 ### Durumsal Eklentiler
 ```
+https://extensions.joomla.org/extension/access-a-security/site-access/marco-s-google-tm-bot-access/
+```
+```
 https://extensions.joomla.org/profile/profile/details/227765/
 ```
 ```

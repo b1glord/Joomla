@@ -64,7 +64,9 @@ https://github.com/b1glord/Joomla/raw/master/4-slider/mod_lazyslider_1-0.zip
 ```
 https://github.com/b1glord/Joomla/raw/master/mod_minifrontpage_unzip_first.zip 
 ```
-
+```
+https://extensions.joomla.org/extension/news-display/articles-display/last-works/
+```
 ##### 2 http://brainymore.com/purchase/content-extensions
 - http://brainymore.com/purchase/content-extensions/bm-articles-tab-ajax-slider-detail
 
